@@ -13,6 +13,7 @@ com\qa\opencart\listeners\AnnotationTransformer.class
 com\qa\opencart\pages\RegisterPage.class
 com\qa\opencart\pages\CommonsPage.class
 com\qa\opencart\pages\ForgotPasswordPage.class
+com\qa\opencart\pages\CartPage.class
 com\qa\opencart\utils\DescriptionConstants.class
 com\qa\opencart\listeners\Retry.class
 com\qa\opencart\factory\DriverFactory.class
